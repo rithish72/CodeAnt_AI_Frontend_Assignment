@@ -30,9 +30,10 @@ npm dev run
 ![App Screenshot](img/SignIn_1.png)
 ![App Screenshot](img/SignIn_2.png)
 ![App Screenshot](img/Repository.png)
-![App Screenshot](img/SignInMobile.png)
-![App Screenshot](img/ToggleMobile.png)
-![App Screenshot](img/RepositoryMobile.png)
+![App Screenshot](img/SignInMobileView.png)
+![App Screenshot](img/SignInView.png)
+![App Screenshot](img/Mobile_1.png)
+![App Screenshot](img/Mobile_2.png)
 
 
 ## Contact
