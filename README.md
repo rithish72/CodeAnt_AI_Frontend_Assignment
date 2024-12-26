@@ -27,9 +27,9 @@ npm dev run
 - **Icons:** React Icons
 
 ## Images
-![App Screenshot](img/.png)
-![App Screenshot](img/.png)
-![App Screenshot](img/.png)
+![App Screenshot](img/SignIn 1.png)
+![App Screenshot](img/SignIn 2.png)
+![App Screenshot](img/Repository.png)
 ![App Screenshot](img/.png)
 
 
